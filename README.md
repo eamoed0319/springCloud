@@ -1,7 +1,7 @@
 # springCloud
 springCloud practice
 
-作業實作分別如下所述(父子modules專案, 父:springCloudParent)
+作業各個組件實作於下述modules專案(父子modules專案, 父:springCloudParent)
 
 Eureka集群: eurekaServer, eurekaServer2
 
