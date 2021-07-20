@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="turbine" />
+        <module name="configServer" />
         <module name="eurekaServer2" />
         <module name="consumer2" />
         <module name="zuul" />

@@ -16,6 +16,7 @@
         <module>turbine</module>
         <module>consumer2</module>
         <module>zuul</module>
+        <module>configServer</module>
     </modules>
     <packaging>pom</packaging>
 

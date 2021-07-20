@@ -1,0 +1,13 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/eamoed0319/springCloud/
+          search-paths: springCloudParent/config
+          username: eamoed0319
+          password: e0970895733
