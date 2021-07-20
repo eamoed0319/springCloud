@@ -14,6 +14,7 @@
         <module name="provider1" />
         <module name="eurekaServer" />
         <module name="provider2" />
+        <module name="configServer2" />
         <module name="consumer" />
       </profile>
     </annotationProcessing>

@@ -11,3 +11,8 @@ spring:
           search-paths: springCloudParent/config
           username: eamoed0319
           password: e0970895733
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8000/eureka/
